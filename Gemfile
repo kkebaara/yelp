@@ -15,6 +15,7 @@ gem 'sdoc', '~> 0.4.0', group: :docßß
 gem 'fog'
 gem 'figaro'
 gem 'mini_magick'
+gem 'devise'
 
 group :development, :test do
   gem 'byebug'
